@@ -6,8 +6,13 @@ Wake on lan a pc, sending a message on Telegram.
           Also install "etherwake" on raspberry.
 
 2 - To make it work online, just use "python anywhere"
-3 - just insert these command: 
+
+3 - just insert these command:
+
 4 - mkvirtualenv --python=/usr/bin/python3 mysite-virtualenv
-    pip install pyTelegramBotAPI
-    python Raspberry_TELEPOT.py
+
+pip install pyTelegramBotAPI
+
+python Raspberry_TELEPOT.py
+
 5- Enjoy!😁
